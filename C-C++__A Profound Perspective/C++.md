@@ -151,7 +151,7 @@ int a;
 int &b = a;
 int * const p = &a; // b 在本质上与 *p 相同
 int c;
-b = c;              // 等价于 *p = c
+b = c; // 等价于 *p = c
 ```
 
 引用变量的应用场景主要是[函数传参和函数返回值](#函数)。
@@ -351,7 +351,7 @@ auto c = b;     // b 为 float 型
 * 在一个语句中声明多个变量或对象，这些变量或对象的数据类型必须一样。
 
 ```cpp
-auto a = 1, b = 1.5;    // Invalid
+auto a = 1, b = 1.5; // Invalid
 ```
 
 * 无法推导为 `const` 类型
@@ -483,9 +483,9 @@ constexpr int d = a;    // Invalid，a 不是常量表达式
 ```cpp
 static int a = 0;
 int b = 1;
-constexpr int *p = &a;  // 等价与 int * const p = &a;
-*p = b;                 // Valid
-p = &b;                 // Invalid
+constexpr int *p = &a; // 等价于 int * const p = &a;
+*p = b; // Valid
+p = &b; // Invalid
 ```
 
 ### nullptr 字面量

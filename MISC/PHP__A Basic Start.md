@@ -169,7 +169,7 @@ PHP 在局部使用全局变量：
         $b = 10;
         
         function Maxab() {
-            global $a, $b;  // 声明使用全局变量 a 和 b
+            global $a, $b; // 声明使用全局变量 a 和 b
             if ($a >= $b) {
                 return $a;
             } else { 
@@ -320,7 +320,7 @@ PHP 中的选择语句与 C 语言完全相同，使用 `if-else` 语句或 `swi
         /** 
          * ...... 
          */
-        break;  // 遇到 break 才会终止
+        break; // 遇到 break 才会终止
         default:
             statement
     }
@@ -353,7 +353,7 @@ PHP 中的循环语句在 C 语言提供的 `while`、`do while`、`for` 的基�
     $a = array ("1", "2", "3");
     foreach ($a as $value) {
         echo $value;
-    }   // 将输出 123
+    } // 将输出 123
 ?>
 ```
 
@@ -367,7 +367,7 @@ PHP 是脚本语言，直接由 PHP 解释器解释执行，不需要进行编�
 <?php
     function function_identifier(parameter_list) {
         statement
-        return ... ;    // 返回值    
+        return ... ; // 返回值    
     }
 ?>
 ```

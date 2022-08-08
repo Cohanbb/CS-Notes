@@ -1,18 +1,26 @@
-# 开发工具
+# Dev-Tools
 
 ## GCC
 
-GCC(GNU Compiler Collection) 是 C\C++ 最主流的编译器之一，是完全开源、自由的软件。运行平台主要是 UNIX/Linux 系统，在 Windows 上也可以通过 MinGW 使用 GCC。
+GCC (GNU Compiler Collection) 是 C/C++ 最主流的编译器之一，是完全开源、自由的软件。运行平台主要是 UNIX/Linux 系统，在 Windows 系统上可以通过 MinGW 使用 GCC。
 
-GCC 原名为 GNU C Compiler，即 GNU C 语言编译器。但目前支持多种语言， 包括 C、C++、Objective-C、Fortran、Java 和 Go 语言。
+GCC 原名为 GNU C Compiler，即 GNU C 编译器。目前支持多种语言，包括 C、C++、Objective-C、Fortran、Java 和 Go 语言。
 
 **GCC 的使用方法**
+
+```bash
+
+```
 
 ## GDB
 
 GDB(GNU Symbolic Debugger) 是完全开源、自由的程序调试工具。
 
 **GDB 的使用方法**
+
+```bash
+$ gdb 
+```
 
 ## Make
 
