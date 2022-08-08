@@ -2,7 +2,7 @@
 
 ## HTTP 和 Web 基础
 
-[计算机网络_应用层](../计算机网络/计算机网络_应用层.md)
+[计算机网络_应用层](../Networking/应用层.md)
 
 ### Web
 
@@ -26,11 +26,11 @@ Session 和 Cookie
 
 ### HTML 与 CSS 基础
 
-参考：[HTML & CSS](../HTML%20&%20CSS.md)
+参考：[HTML & CSS](../MISC/HTML%20&%20CSS.md)
 
 ### PHP 基础
 
-参考：[PHP](../PHP__A%20Basic%20Start.md)  
+参考：[PHP](../MISC/PHP__A%20Basic%20Start.md)  
 
 ## SQL 注入 
 

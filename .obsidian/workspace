@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "4bc66e472b073b13",
+        "id": "e0e495873ea12fe7",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "mydocs/cs/组成原理/组成原理_数据的表示与运算.md",
-            "mode": "source",
+            "file": "MISC/PHP__A Basic Start.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -63,7 +63,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mydocs/cs/组成原理/组成原理_数据的表示与运算.md"
+                "file": "MISC/PHP__A Basic Start.md"
               }
             }
           }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mydocs/cs/组成原理/组成原理_数据的表示与运算.md",
+                "file": "MISC/PHP__A Basic Start.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,17 +105,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4bc66e472b073b13",
+  "active": "e0e495873ea12fe7",
   "lastOpenFiles": [
-    "mydocs/cs/C-C++__A Profound Perspective/C.md",
-    "mydocs/cs/组成原理/组成原理_数据的表示与运算.md",
-    "mydocs/cs/组成原理/组成原理_存储器.md",
-    "mydocs/cs/组成原理/image/Pasted image 20220807184431.png",
-    "mydocs/cs/组成原理/image/Pasted image 20220808103333.png",
-    "mydocs/cs/组成原理/image/R-C.png",
-    "mydocs/cs/组成原理/image/Pasted image 20220804163626.png",
-    "mydocs/cs/组成原理/image/Pasted image 20220807183859.png",
-    "mydocs/cs/组成原理/组成原理_计算机系统概述.md",
-    "mydocs/cs/组成原理/组成原理_指令系统.md"
+    "Security/系统安全.md",
+    "Security/逆向工程.md",
+    "Security/网络安全.md",
+    "Security/Web 攻防.md",
+    "Security/Cryptography.md",
+    "MISC/HTML & CSS.md",
+    "MISC/PHP__A Basic Start.md",
+    "MISC/数学建模.md",
+    "MISC/智能优化算法.md",
+    "Math/未命名.md"
   ]
 }
