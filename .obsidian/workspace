@@ -1,0 +1,121 @@
+{
+  "main": {
+    "id": "d5f6c110c7e997e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "4bc66e472b073b13",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "mydocs/cs/组成原理/组成原理_数据的表示与运算.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "acdc69e9b3fd41e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "f831a0216b91d2a0",
+        "type": "tabs",
+        "dimension": 55.00000000000001,
+        "children": [
+          {
+            "id": "8c4f30d5d0a55c53",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "87ee528ef8b4ef34",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "1331f978174c4b9b",
+        "type": "tabs",
+        "dimension": 45,
+        "children": [
+          {
+            "id": "8ba0d9a95551d364",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "mydocs/cs/组成原理/组成原理_数据的表示与运算.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 312.5036334991455
+  },
+  "right": {
+    "id": "3bfa751b8c4fea9a",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9ac9cb2f588512d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66900a773d6fe9b7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "mydocs/cs/组成原理/组成原理_数据的表示与运算.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4bc66e472b073b13",
+  "lastOpenFiles": [
+    "mydocs/cs/C-C++__A Profound Perspective/C.md",
+    "mydocs/cs/组成原理/组成原理_数据的表示与运算.md",
+    "mydocs/cs/组成原理/组成原理_存储器.md",
+    "mydocs/cs/组成原理/image/Pasted image 20220807184431.png",
+    "mydocs/cs/组成原理/image/Pasted image 20220808103333.png",
+    "mydocs/cs/组成原理/image/R-C.png",
+    "mydocs/cs/组成原理/image/Pasted image 20220804163626.png",
+    "mydocs/cs/组成原理/image/Pasted image 20220807183859.png",
+    "mydocs/cs/组成原理/组成原理_计算机系统概述.md",
+    "mydocs/cs/组成原理/组成原理_指令系统.md"
+  ]
+}
